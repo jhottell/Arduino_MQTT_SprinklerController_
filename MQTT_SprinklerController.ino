@@ -16,7 +16,7 @@ Timer t;
 const char* ssid = "wifissid";
 const char* password = "wifipassword";
 const char* mqtt_server = "mqttipaddress";
-const char* mqtt_topic = "HomeAutomation/Sprinkler/Control";
+const char* mqtt_topic = "HomeAutomation/Sprinkler/Command";
 const char* mqtt_status = "HomeAutomation/Sprinkler/Status";
 const char* mqtt_user = "mqtt";
 const char* mqtt_password = "mqtt";
