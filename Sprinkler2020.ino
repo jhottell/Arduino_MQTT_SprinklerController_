@@ -13,9 +13,9 @@ Timer t;
 
 //Variables
 //Update these with values suitable for your network.
-const char* ssid = "shp";
-const char* password = "fef105ec00";
-const char* mqtt_server = "192.168.1.148";
+const char* ssid = "wifissid";
+const char* password = "wifipassword";
+const char* mqtt_server = "mqttipaddress";
 const char* mqtt_topic = "HomeAutomation/Sprinkler/Control";
 const char* mqtt_status = "HomeAutomation/Sprinkler/Status";
 const char* mqtt_user = "mqtt";
